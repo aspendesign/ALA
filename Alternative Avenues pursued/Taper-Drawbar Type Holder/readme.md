@@ -1,0 +1,1 @@
+This is a design possibility to replace the hirth joint. Rather than indexing to a finite number of steps, using a low angled tapered part that mates into another much like a machine tool taper, it is possible to concentrically apply pressure to prevent rotation.
